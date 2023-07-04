@@ -1,0 +1,22 @@
+{
+  "name": "n_react",
+  "version": "1.0.0",
+  "description": "My first One in React ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZuleenKhan/React.git"
+  },
+  "author": "Zuleen Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZuleenKhan/React/issues"
+  },
+  "homepage": "https://github.com/ZuleenKhan/React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
